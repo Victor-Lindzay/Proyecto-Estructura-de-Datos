@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1594839049 source:c:\users\felip\desktop\transponedor de acordes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	"SortedMap.h"
+	"Map.h"
+
+1594092996 c:\users\felip\desktop\transponedor de acordes\list.h
+
+1575511296 c:\users\felip\desktop\transponedor de acordes\map.h
+
+1594092996 source:c:\users\felip\desktop\transponedor de acordes\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1575511296 source:c:\users\felip\desktop\transponedor de acordes\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1590439382 source:c:\users\felip\desktop\transponedor de acordes\sortedmap.c
+	"SortedMap.h"
+	<stdlib.h>
+	<assert.h>
+
+1575511296 c:\users\felip\desktop\transponedor de acordes\sortedmap.h
+
+1594847950 source:c:\users\felip\desktop\transponedor de acordes\main2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	"SortedMap.h"
+	"Map.h"
+
+1594867169 source:c:\users\felip\desktop\transponedor de acordes\main3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	"SortedMap.h"
+	"Map.h"
+
+1594092996 source:c:\users\vlind\desktop\transponedor de acordes\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1594092996 c:\users\vlind\desktop\transponedor de acordes\list.h
+
+1594869170 source:c:\users\vlind\desktop\transponedor de acordes\main3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	"SortedMap.h"
+	"Map.h"
+
+1575511296 c:\users\vlind\desktop\transponedor de acordes\sortedmap.h
+
+1575511296 c:\users\vlind\desktop\transponedor de acordes\map.h
+
+1575511296 source:c:\users\vlind\desktop\transponedor de acordes\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1594868332 source:c:\users\vlind\desktop\transponedor de acordes\sortedmap.c
+	"SortedMap.h"
+	<stdlib.h>
+	<assert.h>
+
